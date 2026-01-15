@@ -22,3 +22,18 @@ Cette méthodologie concentre jeu de rôle, analyse de données et relation clie
 
 ## 🧩 Objectifs & Enjeux
 
+![dashboard_brief](images/brief.png)
+
+## Dashboards KPI
+
+![dashboard_bi1](images/bi1.png)
+![dashboard_bi2](images/bi2.png)
+
+## 🛠️ Outils Utilisés  
+- **Base de données** : Kaggle
+- **Langage** : DAX
+- **Visualisation** : Power BI
+
+## ⭐ Projet réalisé par :
+- Mourad B.
+- Johane D.
